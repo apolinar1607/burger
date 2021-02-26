@@ -1,0 +1,47 @@
+header {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    text-align: center;
+    height: 80px;
+    border-radius: 5px;
+    background-color: rgb(243, 85, 85);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  #team-div {
+      display: flex;
+      justify-content: space-between; 
+      flex-wrap: wrap;
+      padding-top:50px;
+  }
+  .member-div1 {
+    display: flex;   
+    flex-direction: column;
+    border-radius: 10px; 
+    margin-bottom: 10px;
+    background-color: rgb(211, 209, 209);
+    color: white;
+    padding: 0px;
+    border-style: solid;
+    min-width: 300px;
+  }
+  .first-name {
+      background-color: blue;
+      padding: 5px 5px 10px 8px;
+      margin-bottom: 0px; 
+  }
+  .member-title {
+      background-color: blue;
+      padding: 5px 5px 10px 8px;
+      margin-bottom: 15px;
+  }
+  .list-group {
+      margin-bottom: 20px;
+  }
+
+ 
+  
