@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(182, 182, 76);
+  }
+
+  i {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .btn-devour{
+    float: right
+  }
+
+  .burger-img, .burger-text, .burger-submit-text{
+    text-align: center;
+  }
+  
+  .burger-text {
+    color: red;
+  }
+
+  .burger-submit-text {
+      color: blue;
+  }
+
+  .list-group-item {
+      margin: 5px;
+      vertical-align: center;
+  }
