@@ -1,4 +1,4 @@
-# Team-Profile-Generator
+# Burger-Logging-Application
 
   ![](https://img.shields.io/badge/license-Apache-blue)
 
